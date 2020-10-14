@@ -1,4 +1,4 @@
-# Guidelines on how to name repositories in GitHub at AITS
+# Guidelines on how to name repositories in GitHub at UT Dallas
 
 ***
 Here are some suggested guidelines on how to create repository names that are descriptive and searchable. 
